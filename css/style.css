@@ -1,0 +1,124 @@
+body {
+    color: #40514E;
+    margin: 0rem;
+    text-align: center;
+    font-family:  serif;
+}
+h1 {
+    margin:50px auto 0px auto;
+  font-family: 'Tangerine', cursive;
+  font-size: 5.625rem;
+  color: #66BFBF;
+}
+h2 {
+    font-family: 'Baloo Chettan 2', cursive;
+    font-size: 2.6rem;
+    color:#66BFBF;
+}
+h3 {
+    font-family: 'Abril Fatface', cursive;
+    color: #11999E; 
+    font-size: 1.3rem;
+}
+p {
+    font-family: san-serif;
+    font-size: 1.1rem;
+}
+.top-cloud{
+    position: absolute;
+    top:3.1rem;
+    right: 18.75rem;
+}
+.bottom-cloud{
+    position: absolute;
+    left: 18.75rem;
+    bottom: 18.75rem;
+}
+.top-container{
+    padding-top: 3.1rem;
+    background-color: #EAF6F6;
+    position: relative;
+}
+.skill-row{
+    width:50%;
+    margin:100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+.sat{
+    border-radius: 100%;
+}
+.normal{
+    font-weight: normal;
+}
+.travel{
+    margin-bottom: 60px;
+}
+.code-image{
+    width: 25%;
+    float: left;
+    margin-right: 25px;
+    margin-bottom: 100px;
+}
+.travel-image{
+    width: 25%;
+    float: right;
+    margin-left: 25px;
+}
+hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-color: #EAF6F6;
+    border-width: 7px;
+    margin:50px auto;
+    width: 5%;
+}
+.footer-link{
+    color: #11999E;
+    margin-left: 55px;
+   text-decoration: none;
+}
+.footer-link:hover{
+    color: #EAF6F6;
+}
+.bottom-container{
+    background-color: rgb(140, 187, 189);
+    padding-top: 40px;
+    padding-bottom: 20px;
+    margin-top: 40px;
+    margin-bottom: 0px;
+}
+.middle-container{
+    margin:100px auto 100px auto;
+}
+.vv{
+    color:#EAF6F6;
+    margin-top: 30px;
+    font-size: 0.8em;
+}
+.btn {
+    font-family: 'Baloo Chettan 2', cursive;
+    color: #FFFFFF !important;
+    font-size: 20px;
+    text-shadow: 1px 1px 3px #666666;
+    text-decoration:none;
+    box-shadow: 1px 1px 1px #BEE2F9;
+    padding: 5px 15px;
+    -moz-border-radius: 8px;
+    -webkit-border-radius: 8px;
+    border-radius: 8px;
+    border: 2px solid #3866A3;
+    background: #11CDD4;
+    background: linear-gradient(top,  #11CDD4,  #11999E);
+    background: -ms-linear-gradient(top,  #11CDD4,  #11999E);
+    background: -webkit-gradient(linear, left top, left bottom, from(#11CDD4), to(#11999E));
+    background: -moz-linear-gradient(top,  #11CDD4,  #11999E);
+  }
+  .btn:hover {
+    color: #14396A !important;
+    background: #468CCF;
+    background: linear-gradient(top,  #30E3CB,  #2bc4ad);
+    background: -ms-linear-gradient(top,  #30E3CB,  #2bc4ad);
+    background: -webkit-gradient(linear, left top, left bottom, from(#30E3CB), to(#2bc4ad));
+    background: -moz-linear-gradient(top,  #30E3CB,  #2bc4ad);
+  }
